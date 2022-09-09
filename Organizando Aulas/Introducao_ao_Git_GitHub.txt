@@ -14,6 +14,15 @@ Linux:
 	delete - serve para excluir arquivos e diretórios
 	rm - Serve para remoção de um diretório vazio
 
+Uso de MarkDown
+	#    - representa o h1 em Html
+	##   - representa o h2 em Html
+	###  - representa o h3 em Html
+	#### - representa o h4 em Html
+	n.   - (n é um número inteiro) cria lista numérica
+      **   - Torna um texto em negrito. ex.: **negrito**
+	_    - Muda o texto para itálico. ex.: _Itálico_
+
 Comandos principais Git:
 	git init - serve para inicializar um diretório
 	git add - serve para adicionar os arquivos novos na área de stage
