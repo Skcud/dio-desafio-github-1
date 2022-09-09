@@ -1,0 +1,23 @@
+Comandos Prompt
+Windows: 
+	cd  - serve para navegar entre os diretórios do SO
+	dir - Serve para listar os diretórios e arquivos dentro do diretório acessado
+	cls - Serve para limpar as informações na tela
+	mkdir - Serve para criar pastas
+	delete - serve para excluir arquivos e diretórios
+	rmdir - Serve para remoção de um diretório vazio
+Linux:
+	cd  - serve para navegar entre os diretórios do SO
+	ls - Serve para listar os diretórios e arquivos dentro do diretório acessado
+	clear - Serve para limpar as informações na tela
+	mkdir - Serve para criar pastas
+	delete - serve para excluir arquivos e diretórios
+	rm - Serve para remoção de um diretório vazio
+
+Comandos principais Git:
+	git init - serve para inicializar um diretório
+	git add - serve para adicionar os arquivos novos na área de stage
+	git commit - serve para salvar definitivamente todas as alterações realizadas no repositório
+	git clone - clona um repositório do GitHub para um repositório local
+	git push - atualiza as informações atualizadas e com commit do ambiente local para o servidor remoto (GitHub)
+	
